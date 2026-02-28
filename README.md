@@ -1,9 +1,5 @@
 # IntelliTrace-project
 
-This is your comprehensive **Project Manifesto**. You can use this text for your hackathon submission portal, your GitHub `README.md`, and your presentation script.
-
----
-
 # Project Title: **CipherLink**
 
 ### Subtitle: *A Multi-Tier SCF Fraud Prevention Engine using Dynamic NFTs & Neural Hashing*
